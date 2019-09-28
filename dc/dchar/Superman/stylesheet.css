@@ -1,0 +1,157 @@
+body{
+	font-size:20px;
+	background-color:#F1F1F1;
+}
+.top{
+	background-color:#1a931a;
+	width:1505px;
+	height:100px;
+	position:absolute;
+	top:450px;
+	vertical-align:middle;
+	border-radius:10px;
+	border:2px solid rgb(21,97,1);
+	
+	
+}
+.top h1{
+	text-align:center;
+	font-size:60px;
+	color:white;
+	vertical-align:middle;
+	text-decoration:underline;
+	
+}
+.index a {
+	text-decoration:none;
+	color:white;
+	
+}
+
+div.index{
+	background-color:#1a931a;
+	height:250px;
+	font-size:25px;
+	padding:5px;
+	border:2px solid rgb(21,97,1);
+	border-radius:20px;
+	color:white;
+	line-height:1.5em;
+}
+
+.index a:hover{
+	color:orange;
+}
+.index h2{
+	margin-left:10px;
+	
+}
+.bold{
+	font-style:bold;
+	font-size:30px;
+	margin-right:10px;
+}
+.batmanpic{
+	float:left;
+	border:2px solid rgb(21,97,1);
+	
+	
+}
+
+.intro p.index{
+	
+	background-color:#1a931a;
+	font-size:20px;
+	margin-left:310px;
+	padding:10px;
+	border:2px solid rgb(21,97,1);
+	border-radius:20px;
+	color:white;
+	line-height:1.5em;
+}
+p.index{
+	
+	background-color:#1a931a;
+	font-size:20px;
+	padding:10px;
+	border:2px solid rgb(21,97,1);
+	border-radius:20px;
+	width:950px;
+	color:white;
+	line-height:1.5em;
+}
+.armor{
+	background-color:#1a931a;
+	font-size:20px;
+	padding:5px;
+	border:2px solid rgb(21,97,1);
+	border-radius:20px;
+	color:white;
+	line-height:1.2em;
+	width:950px;
+	float:left;
+}
+
+.movie{
+border:1px black solid;
+text-align:center;
+padding:5px;
+margin-left:50px;
+float:left;
+background-color:white;
+width:350px;
+}
+.movie h4{
+border:1px black solid;
+text-align:center;
+padding:4px;
+width:325px;
+margin-left:auto;
+margin-right:auto;
+}
+
+tbody{
+	font-size:20px;
+	line-height:1.2em;
+	
+}
+table th{
+	background-color:#1a931a;
+	padding:12px 15px;
+	
+}
+table td{
+	background-color:#f7f7f8;
+	padding:12px 15px;
+	
+}
+
+.table td:hover{
+	background-color:#1a931a;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
